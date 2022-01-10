@@ -1,0 +1,49 @@
+{
+  "shelves": [
+    {
+      "max_books": 5,
+      "is_shelf_full": false,
+      "books": [
+        {
+          "author": "Stephen King",
+          "title": "It: A Novel",
+          "num_of_pages": 150
+        },
+        {
+          "author": "Amish Tripathi",
+          "title": "The Oath of the Vayuputras",
+          "num_of_pages": 250
+        }
+      ]
+    },
+    {
+      "max_books": 5,
+      "is_shelf_full": false,
+      "books": [
+        {
+          "author": "Alex Michaelides",
+          "title": "The Silent Patient",
+          "num_of_pages": 170
+        },
+        { "author": "David Walliams", "title": "Slime", "num_of_pages": 56 }
+      ]
+    },
+    {
+      "max_books": 5,
+      "is_shelf_full": false,
+      "books": [
+        {
+          "author": "Will Smith",
+          "title": "Will",
+          "num_of_pages": 300
+        },
+        {
+          "author": "Frank Herbert",
+          "title": "Dune",
+          "num_of_pages": 100
+        }
+      ]
+    }
+  ],
+  "readers": []
+}
